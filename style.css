@@ -1,0 +1,31 @@
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  /* justify-content: flex-start | flex-end | center | space-between | space-around */
+  align-items: center;
+  /* align-items: flex-start | flex-end | center | baseline | stretch */
+  flex-direction: row;
+  /*flex-direction: row | row-reverse | column | column-reverse*/
+}
+
+
+.flex-container {
+  width: 100%;
+  height: 400px;
+  background-color: rgb(255, 200, 0);
+  padding: 10px;
+}
+
+.flex-item {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/667559/redpanda.jpg");
+  background-size: cover;
+  width: 75px;
+  height: 75px;
+  padding: 5px;
+}
+
+#special {
+  align-self: none;
+  /* align-self: flex-start | flex-end | center | baseline | stretch */
+
+}
