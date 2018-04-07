@@ -14,6 +14,6 @@ I created a landing page, alexandergbailey.github.io/lab1/, which acts as a sign
 ![Small-width page](img/small-width.jpg)
 
 ### Summary of full to small-width transitions:
-####In the header: The title in the left corner shrinks so everything can fit even at the smallest width, the items in the right of the header disappear except for 'sign in'.
+#### In the header: The title in the left corner shrinks so everything can fit even at the smallest width, the items in the right of the header disappear except for 'sign in'.
 #### In the shadow box: The shadow box takes up the full screen width, while the input and button stack on top of each other. Input shrinks to the width of the button for aesthetic purposes.
 #### In the lists: the lists shrink into just the titles, with a plus that could hypothetically be clicked to expand a given list.
